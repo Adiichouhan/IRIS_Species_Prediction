@@ -1,2 +1,2 @@
-# IRIS_Species_Prediction
-This is a ML Project which predicts the IRIS Flower Species using ML Algorithms.
+# IRIS_Flower_Species_Prediction
+This is Machine Learning Classification Problem, is classify the Flower Species using input data.
